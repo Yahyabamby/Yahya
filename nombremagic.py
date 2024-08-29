@@ -17,7 +17,7 @@ def nombre_magic(nb_min, nb_max):
 
 
 nb_min = 1
-nb_max = 10
+nb_max = 100
 nb_magic = random.randint(nb_min, nb_max)
 nb_lifes = 3
 nbre = 0
